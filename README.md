@@ -1,2 +1,6 @@
 # hello-world
-just my firsrt
+just my firsr
+ 
+ Hi human!
+ 
+ What's the shame! I don't know what to say.
